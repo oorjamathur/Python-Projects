@@ -7,7 +7,7 @@
 5. It is pretty easy to implement.
 6. Example: -
 
-![Mixins Diagram](D:\DATA SCIENCE\GitHub\Cool Python Concepts with POC\Mixins\diagram.drawio)
+![Mixins Diagram](https://github.com/oorjamathur/Python-Projects/blob/main/Cool%20Python%20Concepts%20POC/Mixins/diag.png)
 
 
 Here,
